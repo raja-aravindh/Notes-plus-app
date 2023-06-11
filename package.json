@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rajaaravindh0.github.io/note-plus-app/",
+  "homepage": "https://raja-aravindh.github.io/Notes-plus-app/",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
