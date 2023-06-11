@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/note-plus-app/static/js/main.183f11fe.js",
+    "index.html": "/note-plus-app/index.html",
+    "main.183f11fe.js.map": "/note-plus-app/static/js/main.183f11fe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.183f11fe.js"
+  ]
+}
